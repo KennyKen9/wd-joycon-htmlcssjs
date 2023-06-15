@@ -13,8 +13,11 @@
 }
 
 .symbol1{
-    padding-top: 50px;
     padding-left: 35px;
+}
+
+.element1{
+    padding-left: 200px;
 }
 
 .symbol2{
@@ -43,4 +46,8 @@ margin: 0;
     padding-top: 40px;
     text-align: right;
     font-size: 15px;
+}
+
+.button:hover{
+    background-color: aqua;
 }
