@@ -1,0 +1,46 @@
+.container{
+    padding-left: 235px;
+}
+
+.container2{
+    display: flex;
+}
+
+.group1{
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.symbol1{
+    padding-top: 50px;
+    padding-left: 35px;
+}
+
+.symbol2{
+    padding-right: 40px;
+}
+
+.symbol4{
+    padding-left: 35px;
+    padding-right: 5px;
+}
+
+.text1{
+    padding-left: 230px;
+    padding-top: 100px;
+}
+.text1 h3{
+padding-left: 2px;
+margin: 0;
+}
+
+.text1 p{
+    margin: 0;
+}
+
+.info{
+    padding-top: 40px;
+    text-align: right;
+    font-size: 15px;
+}
